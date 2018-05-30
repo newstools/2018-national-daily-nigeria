@@ -1,0 +1,23 @@
+Share this on WhatsApp
+
+
+
+The malware, called VPNFilter, has infected more than 500,000 routers in 54 countries, researchers say.
+More than half a million routers and network devices in 54 countries have been infected with sophisticated malware, researchers from Cisco’s Talos Intelligence Group warn.
+The malware, which the security researchers are calling VPNFilter, can steal logins and passwords, can monitor industrial controls and contains a killswitch for routers.
+An attack would have the potential to cut off internet access for all these devices, William Largent, a researcher with Talos, said yesterday in a blog post.
+Attacks on routers hit a sensitive spot, because hackers can use it to monitor web activity, including passwords. In April, US and UK officials warned about Russian hackers targeting millions of routers around the world, with plans to carry out massive attacks leveraging the devices. In that announcement, the FBI called routers a “tremendous weapon in the hands of an adversary.”
+Talos said that VPNFilter could be used in a future attack on Ukraine. The researchers said the new malware shares many of the same codes used in known Russian cyberattacks and called the attack “likely state-sponsored.”
+“Quite anything is possible, this attack basically sets up a hidden network to allow an actor to attack the world from a stance that makes attribution quite difficult,” Craig Williams, Talos’ director, said in an email.
+VPNFilter has infected routers in Ukraine in particular at an “alarming rate,” with a spike in infections in the Eastern European country on May 8 and May 17. Talos researchers are still looking into how the malware infects routers but said that routers from Linksys, MikroTik, Netgear and TP-Link are affected.
+Netgear said it’s aware of VPNFilter, and advises its users to update their routers.
+“NETGEAR is investigating and will update this advisory as more information becomes available,” a spokesman said in an emailed statement.
+The other three network companies didn’t respond to a request for comment.
+The researchers released their findings now out of concern over a potential upcoming attack against Ukraine. The country has repeatedly been the victim of Russian cyberattacks, including the NotPetya ransomware, which US and UK officials have called the “most destructive cyberattack ever.”
+Researchers also attributed to a 2016 blackout in Ukraine to Russian hackers who used malware to target industrial control systems.
+The Cyber Threat Alliance, which Cisco is a member of, has briefed companies about the destructive malware, calling VPNFilter a “serious threat.”
+“It has destructive capability. The malware’s flexible command structure gives the adversary the ability to use it to ‘brick’ these devices. That’s not a capability usually built into malware like this,” the CTA’s president Michael Daniel said.
+Talos is recommending that people reset their routers to factory defaults to remove the potentially destructive malware and update their devices as soon as possible.
+
+Share this on WhatsApp
+		Leave a comment
