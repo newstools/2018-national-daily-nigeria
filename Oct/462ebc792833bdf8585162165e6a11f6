@@ -1,0 +1,16 @@
+Share this on WhatsApp
+
+
+
+ 
+Arik Air customers’ information like credit card numbers, emails and many others may be at risk, and could fall into the hands of fraudsters if quick steps are not taken to protect them, National Daily has gathered.
+An information technology expert who goes by the identity xxdesmus i revealed this on Thursday.
+He said the data was found during his normal course of scanning for open/exposed/vulnerable Amazon S3 buckets.
+The ICT professional also gave hints on the data that leaked. They include: Customer’s IP at the time of purchase; what appears to be the last 4 digits of the credit card used; what appears to be the first 6 digits of the credit card used; a unique device fingerprint (presumably the user’s mobile or desktop device?)
+Others include: Type of currency used; Payment card type; Business name related to the purchase and many other private information.
+While the data clearly belongs to Arik Air, the ICT professional, however, stated that the leak may not be directly from the airline, but from one of its payment processors.
+“It’s not entirely clear who the owner of this data is as Arik Air didn’t reply with any further clarification or details. That being said it certainly seems likely to be a bucket controlled by Arik Air, or one of their immediate partners/processors.”
+From the timeline he provided, it took the airline about a month to respond to his emails. He first noticed the leak on the 6th of September 2018 and notified the airline same day.
+The carrier finally replied on the 17th of September 2018, of which he was asked to resend an email to another email address provided. Upon sending an email to the provided email address, he was told they will review the situation and never heard from Arik Air again.
+Share this on WhatsApp
+		Leave a comment
