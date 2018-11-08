@@ -1,0 +1,45 @@
+var tag = document.createElement("script");
+						tag.src = "https://www.youtube.com/iframe_api";
+
+						var firstScriptTag = document.getElementsByTagName("script")[0];
+						firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+						var player;
+
+						function onYouTubeIframeAPIReady() {
+							player = new YT.Player("td_youtube_player", {
+								height: "720",
+								width: "960",
+								events: {
+									"onReady": onPlayerReady
+								}
+							});
+						}
+
+						function onPlayerReady(event) {
+							player.setPlaybackQuality("hd720");
+						}
+					
+
+                
+
+                
+        Share this on WhatsApp
+In joining the list of diplomats and tourists who have been fascinated by the Jollof Rice Cuisine Nigeria and other African Nations have to offer. Prince Charles also gave his voice to the ongoing dispute over whose Jollof rice is best.
+
+He however took a side step on revealing his own preference.
+
+Speaking in Nigeria at the end of his West Africa tour, he said: “Having also visited The Gambia and Ghana over the past week, our visit to Nigeria may perhaps provide an invaluable opportunity to compare – if one ever dares do such a thing! – the relative merits of each country’s Jollof rice… however, for fear of sparking a diplomatic incident, I suspect I shall have to let you draw your own conclusions about which country’s Jollof we found to be the most delicious!”
+ READ ALSO: Why the Jollof Rice debate is not a waste of time
+The last high-profile British person to dare to talk about Jollof rice was the chef, Jamie Oliver, who at least seemed to unite West Africans in condemnation of his own recipe.
+
+We suspect that Prince Charles was briefed about the ongoing rivalry over the traditional dish made with rice, tomatoes and spices because he was so careful not to reveal his favourite.
+
+The high point of Prince charles speech was when he spoke the pidgin English, ‘Naija No Dey Carry Last’. And that cracked the ribs of his audience.
+READ ALSO: 5 tips for the perfect Jollof rice
+
+Watch the Video Below:
+
+https://youtu.be/aKlJz9LiL-s
+Share this on WhatsApp
+		Leave a comment
