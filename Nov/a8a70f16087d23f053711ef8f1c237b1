@@ -1,0 +1,49 @@
+var tag = document.createElement("script");
+						tag.src = "https://www.youtube.com/iframe_api";
+
+						var firstScriptTag = document.getElementsByTagName("script")[0];
+						firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+						var player;
+
+						function onYouTubeIframeAPIReady() {
+							player = new YT.Player("td_youtube_player", {
+								height: "720",
+								width: "960",
+								events: {
+									"onReady": onPlayerReady
+								}
+							});
+						}
+
+						function onPlayerReady(event) {
+							player.setPlaybackQuality("hd720");
+						}
+					
+
+                
+
+                
+        Share this on WhatsApp
+
+
+
+
+
+
+
+
+Yesterday, the video of a Lagos policeman who got drunk around the Dopemu axis of the state went viral on social media.
+This morning, Dolapo Badmos, the Zone 2 PPRO said the police officer has been identified and arrested by the Commissioner Of Police, Lagos state Command as directed by the Inspector General Of Police.
+
+She added that, ‘he is currently facing a disciplinary panel set up to investigate and try his conduct, the outcome will be made public in no distant time’.
+
+
+
+
+
+
+
+
+Share this on WhatsApp
+		Leave a comment
